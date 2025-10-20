@@ -1,7 +1,11 @@
 //Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre 
 // "Bom fim de semana!". Caso contrário, mostre "Boa semana!".
 
+<<<<<<< HEAD
 let chute_semana = prompt ('Qual o dia da sEMANA?');
+=======
+let chute_semana = prompt ('Qual o dia da SEMANA?');
+>>>>>>> deaa4c7999d23c2d109799b6fb7ceec9a700653d
 
 //chute_semana = chute_semana
     //.toLowerCase() //permite aceitar minúsculo
